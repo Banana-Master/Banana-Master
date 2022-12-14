@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
  -->
 # KIM SUNG HO 😉
-
-![Sejuani98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejuani98&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejuani98&show_icons=true&theme=radical)
 
 [![Solved.ac tjdgh0855](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgh0855)](https://solved.ac/tjdgh0855/)
 # 💪Skills
