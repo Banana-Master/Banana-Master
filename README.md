@@ -23,7 +23,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejuani98&show_icons=true&theme=radical)
 
 [![Solved.ac tjdgh0855](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgh0855)](https://solved.ac/tjdgh0855/)
 
