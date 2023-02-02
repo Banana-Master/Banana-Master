@@ -40,6 +40,6 @@
 <div align=center>
     <p>🏆 Baekjoon solved rank 🏆</p>
     
-![Solved.ac tjdgh0855](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgh0855)
+[![Solved.ac tjdgh0855](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgh0855)](https://solved.ac/tjdgh0855)
     
 </div>
