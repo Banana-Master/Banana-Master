@@ -9,6 +9,14 @@
 
 <h1><img src="https://user-images.githubusercontent.com/54318460/165490580-5014fa53-5de5-4d39-9042-3ea43ea607d5.gif" width="40">Activity</h1> 
 
-<a href="https://github.com/Banana-Master?tab=repositories">
+<div>
+  <a href="https://github.com/Banana-Master?tab=repositories" style="display: inline-block; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banana-Master&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="Banana-Master's Github stats" style="width: 35%;">
-</a>
+  </a>
+
+  <a href="https://solved.ac/tjdgh0855" style="display: inline-block;">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=tjdgh0855" alt="Solved.ac 프로필">
+  </a>
+</div>
+
+
