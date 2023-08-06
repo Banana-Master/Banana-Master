@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://solved.ac/tjdgh0855" style="display: inline-block;">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=tjdgh0855" alt="Solved.ac 프로필">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgh0855" alt="Solved.ac 프로필">
   </a>
 </div>
 
