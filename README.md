@@ -13,7 +13,7 @@
   <a href="https://github.com/Banana-Master?tab=repositories" style="display: inline-block; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banana-Master&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="Banana-Master's Github stats" style="width: 35%;">
   </a>
-<img src="https://github-readme-stats.vercel.app/api?username=Banana-Master&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Banana-Master&show_icons=true"> -->
 </div>
 <a href="https://solved.ac/profile/tjdgh0855" style="display: inline-block;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgh0855" alt="Solved.ac 프로필">
