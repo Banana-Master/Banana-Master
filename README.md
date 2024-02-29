@@ -27,7 +27,9 @@
 
 ## 📚 Algorithm
 <a href="https://solved.ac/profile/tjdgh0855" style="display: inline-block;">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tjdgh0855" alt="Solved.ac 프로필">
+  
+![tjdgh0855's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tjdgh0855)
+
 </a>
 
 ## 🌼 Used Languages
