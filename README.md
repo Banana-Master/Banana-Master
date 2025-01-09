@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=googlechrome&logoColor=white"/>
 </p>
 
+### Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
+</p>
+
+
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
