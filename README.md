@@ -3,12 +3,10 @@
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vanilla--extract-CCFBF1?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=googlechrome&logoColor=white"/>
 </p>
 
@@ -16,11 +14,6 @@
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
-</p>
-
-### FullStack
-<p>
-    <img src="https://img.shields.io/badge/Sveltekit-FF3E00?style=flat&logo=svelte&logoColor=white"/>
 </p>
 
 ### Database
