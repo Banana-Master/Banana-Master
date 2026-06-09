@@ -15,6 +15,7 @@
 ### Backend
 <p> 
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
 </p>
 
 ### Database
