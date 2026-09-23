@@ -1,5 +1,5 @@
 <a href="https://sunghoyaaa.com">
-  <img src="https://img.shields.io/badge/Blog-sunghoyaaa.com-000000?style=flat&logo=astro&logoColor=white"/>
+  <img src="./blog-banner.png" alt="성호의 개발 블로그 구경하기" width="100%"/>
 </a>
 
 ## 📝 Recent Posts
