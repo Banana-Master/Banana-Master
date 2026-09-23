@@ -1,3 +1,12 @@
+<a href="https://sunghoyaaa.com">
+  <img src="https://img.shields.io/badge/Blog-sunghoyaaa.com-000000?style=flat&logo=astro&logoColor=white"/>
+</a>
+
+## 📝 Recent Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## 🛠 TECH STACK
 
 ### Frontend
